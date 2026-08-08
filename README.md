@@ -4,18 +4,18 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=900&lines=🛡️+Secure+Your+Digital+Identity;🔐+Generate+Strong+Passwords;⚡+Modern+Cybersecurity+Experience;🚀+Fast+%7C+Secure+%7C+Responsive;💀+Welcome+To+SHIELD+PASS"/>
+
 
 <br>
 
-[![Live Demo](https://img.shields.io/badge/🚀%20Live%20Demo-00FF41?style=for-the-badge)](https://kingkong0070.github.io/SHIELD-PASS/)
-[![Repository](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/kingkong0070/SHIELD-PASS)
-![License](https://img.shields.io/github/license/kingkong0070/SHIELD-PASS?style=for-the-badge)
-![Stars](https://img.shields.io/github/stars/kingkong0070/SHIELD-PASS?style=for-the-badge)
-![Forks](https://img.shields.io/github/forks/kingkong0070/SHIELD-PASS?style=for-the-badge)
-![Issues](https://img.shields.io/github/issues/kingkong0070/SHIELD-PASS?style=for-the-badge)
+[![Live Demo](https://img.shields.io/badge/🚀%20Live%20Demo-00FF41?style=for-the-badge)](https://thaswanth-r.github.io/SHIELD-PASS/)
+[![Repository](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/Thaswanth-R/SHIELD-PASS)
+![License](https://shields.io)
+![Stars](https://shields.io)
+![Forks](https://shields.io)
+![Issues](https://shields.io)
 
-<img src="https://komarev.com/ghpvc/?username=kingkong0070&style=for-the-badge&color=00FF41"/>
+<img src="https://komarev.com"/>
 
 </div>
 
@@ -29,7 +29,7 @@
 
 # 🌌 Live Demo
 
-### 🚀 https://kingkong0070.github.io/SHIELD-PASS/
+### 🚀 https://thaswanth-r.github.io/SHIELD-PASS/
 
 ---
 
@@ -256,33 +256,16 @@ title SHIELD PASS Development
 
 # 🛡 Security Philosophy
 
-```
-✔ Strong Passwords
-
-✔ Secure Design
-
-✔ Fast Performance
-
-✔ User Friendly
-
-✔ Responsive Interface
-
-✔ Cyberpunk Experience
-
-✔ Clean Code
-
-✔ Future Ready
-```
-
+Use code with caution.✔ Strong Passwords✔ Secure Design✔ Fast Performance✔ User Friendly✔ Responsive Interface✔ Cyberpunk Experience✔ Clean Code✔ Future Ready
 ---
 
 # 📊 GitHub Statistics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kingkong0070&show_icons=true&theme=chartreuse-dark"/>
+<img height="180em" src="https://vercel.app"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kingkong0070&layout=compact&theme=chartreuse-dark"/>
+<img height="180em" src="https://vercel.app"/>
 
 </div>
 
@@ -290,7 +273,7 @@ title SHIELD PASS Development
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kingkong0070&theme=chartreuse-dark"/>
+<img src="https://herokuapp.com"/>
 
 </div>
 
@@ -300,7 +283,7 @@ title SHIELD PASS Development
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kingkong0070&theme=react-dark"/>
+<img src="https://vercel.app"/>
 
 </div>
 
@@ -364,9 +347,9 @@ This project is licensed under the **MIT License**.
 
 <div align="center">
 
-## Developed with ❤️ by KINGKONG0070
+## Developed with ❤️ by Thaswanth-R
 
-<a href="https://github.com/kingkong0070">
+<a href="https://github.com/Thaswanth-R">
 <img src="https://img.shields.io/badge/GitHub-Profile-00FF41?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
