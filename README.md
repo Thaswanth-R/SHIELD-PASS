@@ -347,7 +347,7 @@ This project is licensed under the **MIT License**.
 
 <div align="center">
 
-## Developed with ❤️ by Thaswanth-R
+## Developed with 😎 by Thaswanth-R
 
 <a href="https://github.com/Thaswanth-R">
 <img src="https://img.shields.io/badge/GitHub-Profile-00FF41?style=for-the-badge&logo=github&logoColor=white"/>
